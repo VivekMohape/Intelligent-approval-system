@@ -1,0 +1,8 @@
+langgraph
+pydantic
+streamlit
+pandas
+tenacity
+python-dotenv
+groq
+aiosqlite
