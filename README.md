@@ -1,12 +1,10 @@
-# Intelligent-approval-system
-
 # Intelligent Approval System (LangGraph Agentic Workflow)
 
 A production-grade **multi-agent AI system** for automating marketing approvals using LangGraph, Groq LLMs, and Streamlit.
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This system simulates a real-world approval pipeline:
 
@@ -30,7 +28,7 @@ All powered by **parallel AI agents**.
 - Parallel agent execution
 - Faster response times
 
-### 🧠 LLM Stack (Groq)
+###  LLM Stack (Groq)
 - `openai/oss-120b` → Primary reasoning model  
 - `llama3-8b-8192` → Fast fallback model  
 
